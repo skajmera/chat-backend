@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chat Backend
 
 Node.js + TypeScript + PostgreSQL (Prisma) + Firebase Firestore chat backend.
@@ -220,3 +221,6 @@ Firestore:
 ## Important
 
 The `.env` file in this ZIP contains placeholders only. Replace them with your actual Neon and Firebase credentials before running the application. Never commit real credentials to Git.
+=======
+# chat-backend
+>>>>>>> 213942156a85d35310ad431acb8742109a33360a
